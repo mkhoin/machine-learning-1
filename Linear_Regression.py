@@ -1,3 +1,5 @@
+# tykimoss_20160213
+
 import numpy as np
 
 # Algorithm 1 Linear_Regression_Traninig(y, X, eta, limit)
